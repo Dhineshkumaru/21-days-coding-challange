@@ -6,6 +6,6 @@
 
 1. Continue learning javascript concepts.
 
-**Plans for Today:**
+**Plans for Tomorrow:**
 
 1. Learn Angular concepts.
